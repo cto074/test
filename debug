@@ -1,0 +1,17 @@
+Trying 192.168.17.135...
+Connected to 192.168.17.135.
+Escape character is '^]'.
+
+
+User Access Verification
+
+Username: cisco
+cisco
+Password: cisco
+
+R1#show version | i V
+show version | i V
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.4(2)T4, DEVELOPMENT TEST SOFTWARE
+System image file is "unix:/opt/unetlab/addons/iol/bin/L3-ADVENTERPRISEK9-M-15.4-2T.bin"
+1024K bytes of NVRAM.
+R1#exit
